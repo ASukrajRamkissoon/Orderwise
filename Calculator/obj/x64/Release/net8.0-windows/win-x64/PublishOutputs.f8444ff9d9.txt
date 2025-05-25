@@ -1,0 +1,7 @@
+C:\Users\ASukraj\Desktop\Test\Orderwise\Calculator.pdb
+C:\Users\ASukraj\Desktop\Test\Orderwise\D3DCompiler_47_cor3.dll
+C:\Users\ASukraj\Desktop\Test\Orderwise\PenImc_cor3.dll
+C:\Users\ASukraj\Desktop\Test\Orderwise\PresentationNative_cor3.dll
+C:\Users\ASukraj\Desktop\Test\Orderwise\vcruntime140_cor3.dll
+C:\Users\ASukraj\Desktop\Test\Orderwise\wpfgfx_cor3.dll
+C:\Users\ASukraj\Desktop\Test\Orderwise\Calculator.exe
